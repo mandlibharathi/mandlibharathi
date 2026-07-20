@@ -1,8 +1,20 @@
-# 👋 Hi, I'm Bharathi
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="28px" alt="wave"> Hey, I'm Bharathi!
 
-## 💼 Full Stack Developer | 3 Years of Experience
+### 🎯 Full Stack Developer | Building Web Magic with MERN Stack
 
-Welcome to my GitHub profile! I'm a passionate full stack developer with 3 years of professional experience building scalable web applications and robust backend systems.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+3+Years+Experience;Building+Scalable+Web+Applications;Crafting+Beautiful+Frontend+Experiences;Designing+Robust+Backend+Systems;Let's+Build+Something+Amazing+Together!)](https://git.io/typing-svg)
+
+---
+
+## 💡 About Me
+
+I'm a **passionate full-stack developer** with **3 years of hands-on experience** crafting elegant solutions and scalable web applications. I thrive on solving complex problems and turning ideas into reality through clean, efficient code. I'm constantly evolving my skills and love collaborating with creative minds to build impactful digital experiences.
+
+### Fun Facts About Me 🚀
+- ⚡ I code faster after my second cup of coffee ☕
+- 🎮 When not coding, you'll find me gaming or exploring new tech frameworks
+- 🌍 Passionate about open-source contributions and community learning
+- 💪 Debugging enthusiast—if the code's broken, I'll fix it! 🔧
 
 ---
 
